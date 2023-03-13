@@ -7,4 +7,3 @@
 ---
 
 Build with Angular and Ionic
-git
